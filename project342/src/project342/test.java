@@ -12,7 +12,7 @@ public class test {
 		  
 		  
 		  StaffMember staff1 = new StaffMember(true, 1, 123, "Ahmet","Kemal","Ocak","ahmet@ahmet.com");
-		  StaffMember staff2 = new StaffMember(false, 2, 1234, "Mehmet","Sinan", "Mart", "Mehmet@Mehmet.com");
+		  StaffMember staff2 = new StaffMember(false, 2, 1234, "Mehmet","Sinan", "Mart", "mehmet@mehmet.com");
 		  StaffMember staff3 = new StaffMember(true, 3, 1235, "Cahit","Mert", "Mart", "cahit@cahit.com");
 		  StaffMember staff4 = new StaffMember(false, 4, 123456, "Ayþe","Keskin", "Kasým", "ayse@ayse.com");
 		  StaffMember staff5 = new StaffMember(false, 5, 1234567, "Fatma","Hürkuþ", "Eylül", "fatma@fatma.com");
@@ -42,7 +42,7 @@ public class test {
 	      client.add(client2); 
 	      
 	      
-	      CreatingConceptNote makale = new CreatingConceptNote(1, "note1", "27.10.2018", "örnek notjasdjkasjdkasjdkla",staff2 , campaign1);
+	      CreatingConceptNote makale = new CreatingConceptNote(1, "note1", "27.10.2018", "Bu bir ornek nottur.",staff2 , campaign1);
 	      
 
 	}
