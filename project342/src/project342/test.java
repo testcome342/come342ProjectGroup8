@@ -11,11 +11,11 @@ public class test {
 	{
 		  
 		  
-		  StaffMember staff1 = new StaffMember(true, 1, 123, "Mustafa","Kemal","Ocak","mustafa@mustafa.com");
-		  StaffMember staff2 = new StaffMember(false, 2, 1234, "Oktay","Sinanoðlu", "Mart", "oktay@oktay.com");
-		  StaffMember staff3 = new StaffMember(true, 3, 1235, "Cahit","Arf", "Mart", "cahit@cahit.com");
-		  StaffMember staff4 = new StaffMember(false, 4, 123456, "Ýlber","Ortaylý", "Kasým", "ilber@ilber.com");
-		  StaffMember staff5 = new StaffMember(false, 5, 1234567, "Vecihi","Hürkuþ", "Eylül", "vecihi@vecihi.com");
+		  StaffMember staff1 = new StaffMember(true, 1, 123, "Ahmet","Kemal","Ocak","ahmet@ahmet.com");
+		  StaffMember staff2 = new StaffMember(false, 2, 1234, "Mehmet","Sinan", "Mart", "Mehmet@Mehmet.com");
+		  StaffMember staff3 = new StaffMember(true, 3, 1235, "Cahit","Mert", "Mart", "cahit@cahit.com");
+		  StaffMember staff4 = new StaffMember(false, 4, 123456, "Ayþe","Keskin", "Kasým", "ayse@ayse.com");
+		  StaffMember staff5 = new StaffMember(false, 5, 1234567, "Fatma","Hürkuþ", "Eylül", "fatma@fatma.com");
 		  
 		  ArrayList<StaffMember> staffmemberlist1 = new ArrayList<StaffMember>();
 		  staffmemberlist1.add(staff1);

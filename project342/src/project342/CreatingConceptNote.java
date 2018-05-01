@@ -25,7 +25,7 @@ public class CreatingConceptNote {
 		this.Campaign = campaign;
 		}
 		else {
-			System.out.println("staff creative deðil");
+			System.out.println("staff is not creative");
 		}
 	}
 	
